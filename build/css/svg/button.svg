@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="226px" height="50px" viewBox="0 0 226 50">
+<style type="text/css"><![CDATA[
+.style0 {
+  font-size: 16px;
+  font-family: "ClearSans-Bold";
+  fill: rgb(243,202,157);
+}
+]]></style>
+<path fillRule="evenodd" d="M 224 48C 224 48 224 2 224 2 224 2 2 2 2 2 2 2 2 48 2 48 2 48 224 48 224 48M 226 50C 226 50-0 50-0 50-0 50-0 0-0 0-0 0 226 0 226 0 226 0 226 50 226 50 226 50 226 50 226 50Z" fill="rgb(237,197,153)"/><text transform="translate(62.03,18.37)" class="style0"><tspan y="11.36" x="0.00 7.87 17.66 27.89 38.42 47.76 56.85 64.80 73.46 82.98" fill="rgb(242,201,157)">ЗАПИСАТЬСЯ</tspan></text></svg>
