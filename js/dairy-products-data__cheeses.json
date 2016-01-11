@@ -1,0 +1,427 @@
+[   {
+        "title": "Сырные продукты",
+        "products": [
+        {
+        "icon": "",
+        "startImg":"img/svg/cheese.svg",
+        "goodies" : "",
+        "info": ""
+        }
+        ],
+        "steps": []
+
+    },
+    {   
+      "title": "Качотта",
+      "products" : [
+      {
+        "icon": "img/svg/products_icons/cheese_kachotta.svg",
+        "startImg":"img/svg/animations/caciotta/packing.svg",
+        "goodies" : "1",
+        "info": "2"
+      }
+      ],
+      "steps" : [
+        {
+        "img": "img/svg/animations/caciotta/transportation.svg",
+        "header": "Транспортировка",
+        "description": "Доставка молока специализированной автомолцистерной с фермы на завод."
+        },
+        {
+        "img": "img/svg/animations/caciotta/quality_control.svg",
+        "header": "Контроль качества",
+        "description": "Экспертиза молока в собственной высокотехнологичной лаборатории."
+        },
+        {
+        "img": "img/svg/animations/caciotta/milk_inspection.svg",
+        "header": "ПРИЁМКА МОЛОКА",
+        "description": "Количественный учет и проверка соответствия молока требованиям, установленным стандартами качества «Лосево»."
+        },
+        {
+        "img": "img/svg/animations/caciotta/milk_aging.svg",
+        "header": "СОЗРЕВАНИЕ МОЛОКА",
+        "description": "Процесс созревания молока, необходимого для производства сыра."
+        },
+        {
+        "img": "img/svg/animations/caciotta/pasteurization.svg",
+        "header": "ПАСТЕРИЗАЦИЯ",
+        "description": "Процесс одноразового мгновенного нагревания молока до 95° С с целью обеззараживания."
+        },
+        {
+        "img": "img/svg/animations/caciotta/leavening.svg",
+        "header": "ЗАКВАШИВАНИЕ",
+        "description": "Внесение в молоко закваски, состоящей из определенных видов микроорганизмов, при требуемых температурах, а также сычужного фермента"
+        },
+        {
+        "img": "img/svg/animations/caciotta/souring.svg",
+        "header": "СКВАШИВАНИЕ",
+        "description": "Образование сырного колье (сгустка)."
+        },
+        {
+        "img": "img/svg/animations/caciotta/cheese_mass.svg",
+        "header": "СЫРНАЯ МАССА",
+        "description": "Проверка свойств полученного сырного сгустка."
+        },
+        {
+        "img": "img/svg/animations/caciotta/forming.svg",
+        "header": "ФОРМОВКА И ПРЕССОВАНИЕ СЫРНОЙ МАССЫ",
+        "description": "Распределение сырного колье по формам, прессование продукта и формирование сырных головок."
+        },
+        {
+        "img": "img/svg/animations/caciotta/brining.svg",
+        "header": "ПРОСОЛКА СЫРНЫХ ГОЛОВОК",
+        "description": ""
+        },
+        {
+        "img": "img/svg/animations/caciotta/cheese_aging.svg",
+        "header": "СЫРНАЯ КАМЕРА, СОЗРЕВАНИЕ",
+        "description": "Процесс созревание сырных голов."
+        },
+        {
+        "img": "img/svg/animations/caciotta/packing.svg",
+        "header": "ФАСОВКА",
+        "description": "Фасовка и упаковка сыра в оригинальную упаковку «Лосево»"
+        },
+        {
+        "img": "img/svg/animations/caciotta/logistics.svg",
+        "header": "ДОСТАВКА НА ПРИЛАВОК",
+        "description": "Логистика готовой продукции в торговые точки «Лосево»."
+        }
+      ]
+    },
+    {
+      "title": "Маскарпоне",
+      "products" : [
+      {
+        "icon": "img/svg/products_icons/cheese_maskarpone.svg",
+        "startImg":"img/svg/animations/maskarpone/maskarpone cheese pack.svg",
+        "goodies" : "1",
+        "info": "2"
+      }
+      ],
+      "steps" : [
+        {
+        "img": "img/svg/animations/maskarpone/transportation.svg",
+        "header": "Транспортировка",
+        "description": "Доставка молока специализированной автомолцистерной с фермы на завод."
+        },
+        {
+        "img": "img/svg/animations/maskarpone/quality_control.svg",
+        "header": "Контроль качества",
+        "description": "Экспертиза молока в собственной высокотехнологичной лаборатории."
+        },
+        {
+        "img": "img/svg/animations/maskarpone/milk_inspection.svg",
+        "header": "ПРИЁМКА МОЛОКА",
+        "description": "Количественный учет и проверка соответствия молока требованиям, установленным стандартами качества «Лосево»."
+        },
+        {
+        "img": "img/svg/animations/maskarpone/separation.svg",
+        "header": "СЕПАРАЦИЯ",
+        "description": "Механическое отделение сливок от молока"
+        },
+        {
+        "img": "img/svg/animations/maskarpone/pasteurization.svg",
+        "header": "ПАСТЕРИЗАЦИЯ",
+        "description": "Процесс одноразового мгновенного нагревания молока до 95° С с целью обеззараживания."
+        },
+        {
+        "img": "img/svg/animations/maskarpone/normalization.svg",
+        "header": "НОРМАЛИЗАЦИЯ СЛИВОК",
+        "description": "Доведение сливок до опрделенной жирности путем смешивания"
+        },
+        {
+        "img": "img/svg/animations/maskarpone/lemon acid.svg",
+        "header": "ВНЕСЕНИЕ ЛИМОННОЙ КИСЛОТЫ",
+        "description": "Когуляция - превращение жидких сливок в сырный сгусток"
+        },
+        {
+        "img": "img/svg/animations/maskarpone/maskarpone cheese cooling.svg",
+        "header": "ПРЕССОВАНИЕ И ОХЛАЖДЕНИЕ",
+        "description": "Снижение температуры продукта, прессование продукта с целью отделение лишней жидкости"
+        },
+        {
+        "img": "img/svg/animations/maskarpone/maskarpone cheese pack.svg",
+        "header": "ФАСОВКА",
+        "description": "Фасовка и упаковка сыра в оригинальную упаковку «Лосево»"
+        },
+        {
+        "img": "img/svg/animations/maskarpone/logistics.svg",
+        "header": "ДОСТАВКА НА ПРИЛАВОК",
+        "description": "Логистика готовой продукции в торговые точки «Лосево»."
+        }
+      ]
+    },
+    {
+      "title": "Моцарелла",
+      "products" : [
+      {
+        "icon": "img/svg/products_icons/cheese_mocarella.svg",
+        "startImg":"img/svg/animations/mozarella/mocarella cheese pack.svg",
+        "goodies" : "1",
+        "info": "2"
+      }
+      ],
+      "steps" : [
+        {
+        "img": "img/svg/animations/mozarella/transportation.svg",
+        "header": "Транспортировка",
+        "description": "Доставка молока специализированной автомолцистерной с фермы на завод."
+        },
+        {
+        "img": "img/svg/animations/mozarella/quality_control.svg",
+        "header": "Контроль качества",
+        "description": "Экспертиза молока в собственной высокотехнологичной лаборатории."
+        },
+        {
+        "img": "img/svg/animations/mozarella/milk_inspection.svg",
+        "header": "ПРИЁМКА МОЛОКА",
+        "description": "Количественный учет и проверка соответствия молока требованиям, установленным стандартами качества «Лосево»."
+        },
+        {
+        "img": "img/svg/animations/mozarella/pasteurization.svg",
+        "header": "ПАСТЕРИЗАЦИЯ",
+        "description": "Процесс одноразового мгновенного нагревания молока до 95° С с целью обеззараживания."
+        },
+        {
+        "img": "img/svg/animations/mozarella/souring.svg",
+        "header": "СКВАШИВАНИЕ",
+        "description": "Размножение микрофлоры закваски, увеличение кислотности и образование сырного колье (сгустка)"
+        },
+        {
+        "img": "img/svg/animations/mozarella/cheese mass.svg",
+        "header": "СЫРНАЯ МАССА",
+        "description": "Проверка свойств сырного сгустка"
+        },
+        {
+        "img": "img/svg/animations/mozarella/cheese dough.svg",
+        "header": "СЫРНОЕ ТЕСТО",
+        "description": "Процесс подогревания сырной массы до температуры плавления в специальной машине и внесение соли"
+        },
+        {
+        "img": "img/svg/animations/mozarella/forming.svg",
+        "header": "ФОРМОВКА",
+        "description": "Распределение сырной массы по формам"
+        },
+        {
+        "img": "img/svg/animations/mozarella/pickling.svg",
+        "header": "ПРОСОЛКА",
+        "description": "Засолка сырных батонч"
+        },
+        {
+        "img": "img/svg/animations/mozarella/mocarella cheese pack.svg",
+        "header": "ФАСОВКА",
+        "description": "Фасовка и упаковка сыра в оригинальную упаковку «Лосево»"
+        },
+        {
+        "img": "img/svg/animations/mozarella/logistics.svg",
+        "header": "ДОСТАВКА НА ПРИЛАВОК",
+        "description": "Логистика готовой продукции в торговые точки «Лосево»."
+        }
+      ]
+    },
+    {
+      "title": "Риккота",
+      "products" : [
+      {
+        "icon": "img/svg/products_icons/cheese_rikotta.svg",
+        "startImg":"img/svg/animations/rikota/rikotta pack.svg",
+        "goodies" : "1",
+        "info": "2"
+      }
+      ],
+      "steps" : [
+        {
+        "img": "img/svg/animations/rikota/serum.svg",
+        "header": "СЫВОРОТКА",
+        "description": "Получение подсырной сыворотки в процессе производства полутвердых сыров"
+        },
+        {
+        "img": "img/svg/animations/rikota/heating.svg",
+        "header": "НАГРЕВАНИЕ",
+        "description": "Процесс нагревания сыворотки до опрделенной температуры"
+        },
+        {
+        "img": "img/svg/animations/rikota/lemon acid.svg",
+        "header": "ВНЕСЕНИЕ ЛИМОННОЙ КИСЛОТЫ И СОЛИ",
+        "description": "Внесение лимонной кислоты, способствующей свертыванию белка"
+        },
+        {
+        "img": "img/svg/animations/rikota/cooling.svg",
+        "header": "ОХЛАЖДЕНИЕ",
+        "description": "Снижение температуры продукта"
+        },
+        {
+        "img": "img/svg/animations/rikota/cheese mass.svg",
+        "header": "СБОР МАССЫ",
+        "description": "Ручной сбор сырной массы"
+        },
+        {
+        "img": "img/svg/animations/rikota/forming and pressing.svg",
+        "header": "САМОПРЕССОВАНИЕ",
+        "description": "Распределение сырной массы по формам и удаление лишней влаги"
+        },
+        {
+        "img": "img/svg/animations/rikota/rikotta cooling.svg",
+        "header": "ОХЛАЖДЕНИЕ",
+        "description": "Снижение температуры продукта"
+        },
+        {
+        "img": "img/svg/animations/rikota/rikotta pack.svg",
+        "header": "ФАСОВКА",
+        "description": "Фасовка и упаковка сыра в оригинальную упаковку «Лосево»"
+        },
+        {
+        "img": "img/svg/animations/rikota/logistics.svg",
+        "header": "ДОСТАВКА НА ПРИЛАВОК",
+        "description": "Логистика готовой продукции в торговые точки «Лосево»."
+        }
+      ]
+    },
+    {
+      "title": "Стракино",
+      "products" : [
+      {
+        "icon": "img/svg/products_icons/cheese_strakino.svg",
+        "startImg":"img/svg/animations/strakino/strakkino cheese pack.svg",
+        "goodies" : "1",
+        "info": "2"
+      }
+      ],
+      "steps" : [
+        {
+        "img": "img/svg/animations/strakino/transportation.svg",
+        "header": "Транспортировка",
+        "description": "Доставка молока специализированной автомолцистерной с фермы на завод."
+        },
+        {
+        "img": "img/svg/animations/strakino/quality_control.svg",
+        "header": "Контроль качества",
+        "description": "Экспертиза молока в собственной высокотехнологичной лаборатории."
+        },
+        {
+        "img": "img/svg/animations/strakino/milk_inspection.svg",
+        "header": "ПРИЁМКА МОЛОКА",
+        "description": "Количественный учет и проверка соответствия молока требованиям, установленным стандартами качества «Лосево»."
+        },
+        {
+        "img": "img/svg/animations/strakino/pasteurization.svg",
+        "header": "ПАСТЕРИЗАЦИЯ",
+        "description": "Процесс одноразового мгновенного нагревания молока до 95° С с целью обеззараживания."
+        },
+        {
+        "img": "img/svg/animations/strakino/leavening.svg",
+        "header": "ЗАКВАШИВАНИЕ",
+        "description": "Внесение в молоко закваски, состоящей из определенных видов микроорганизмов, при требуемых температурах, а также сычужного фермента"
+        },
+        {
+        "img": "img/svg/animations/strakino/souring.svg",
+        "header": "СКВАШИВАНИЕ",
+        "description": "Размножение микрофлоры закваски, увеличение кислотности и образование сырного колье (сгустка)"
+        },
+        {
+        "img": "img/svg/animations/strakino/forming.svg",
+        "header": "ФОРМОВКА",
+        "description": "Распределение сырной массы по формам"
+        },
+        {
+        "img": "img/svg/animations/strakino/pressing.svg",
+        "header": "ПРЕССОВАНИЕ",
+        "description": "Процесс образование четкой формы сырной головы"
+        },
+        {
+        "img": "img/svg/animations/strakino/picking.svg",
+        "header": "ПРОСОЛКА",
+        "description": "Засолка сырных батонч"
+        },
+        {
+        "img": "img/svg/animations/strakino/strakkino cheese pack.svg",
+        "header": "ФАСОВКА",
+        "description": "Фасовка и упаковка сыра в оригинальную упаковку «Лосево»"
+        },
+        {
+        "img": "img/svg/animations/strakino/logistics.svg",
+        "header": "ДОСТАВКА НА ПРИЛАВОК",
+        "description": "Логистика готовой продукции в торговые точки «Лосево»."
+        }
+      ]
+    },
+    {
+      "title": "Сыр Лосево",
+      "products" : [
+      {
+        "icon": "img/svg/products_icons/cheese_losevo.svg",
+        "startImg":"img/svg/animations/ch_losevo/losevo cheese pack.svg",
+        "goodies" : "1",
+        "info": "2"
+      }
+      ],
+      "steps" : [
+        {
+        "img": "img/svg/animations/ch_losevo/transportation.svg",
+        "header": "Транспортировка",
+        "description": "Доставка молока специализированной автомолцистерной с фермы на завод."
+        },
+        {
+        "img": "img/svg/animations/ch_losevo/quality_control.svg",
+        "header": "Контроль качества",
+        "description": "Экспертиза молока в собственной высокотехнологичной лаборатории."
+        },
+        {
+        "img": "img/svg/animations/ch_losevo/milk_inspection.svg",
+        "header": "ПРИЁМКА МОЛОКА",
+        "description": "Количественный учет и проверка соответствия молока требованиям, установленным стандартами качества «Лосево»."
+        },
+        {
+        "img": "img/svg/animations/ch_losevo/milk_aging.svg",
+        "header": "СОЗРЕВАНИЕ МОЛОКА",
+        "description": "Процесс созревания молока, необходимого для производства сыра."
+        },
+        {
+        "img": "img/svg/animations/ch_losevo/pasteurization.svg",
+        "header": "ПАСТЕРИЗАЦИЯ",
+        "description": "Процесс одноразового мгновенного нагревания молока до 95° С с целью обеззараживания."
+        },
+        {
+        "img": "img/svg/animations/ch_losevo/leavening.svg",
+        "header": "ЗАКВАШИВАНИЕ",
+        "description": "Внесение в молоко закваски, состоящей из определенных видов микроорганизмов, при требуемых температурах, а также сычужного фермента"
+        },
+        {
+        "img": "img/svg/animations/ch_losevo/souring.svg",
+        "header": "СКВАШИВАНИЕ",
+        "description": "Размножение микрофлоры закваски, увеличение кислотности и густоты продукта"
+        },
+        {
+        "img": "img/svg/animations/ch_losevo/cheese_mass.svg",
+        "header": "СЫРНАЯ МАССА",
+        "description": "Размножение микрофлоры закваски, увеличение кислотности и образование сырного колье (сгустка)"
+        },
+        {
+        "img": "img/svg/animations/ch_losevo/forming.svg",
+        "header": "ФОРМОВКА И ПРЕССОВАНИЕ СЫРНОЙ МАССЫ",
+        "description": "Нарезка сырного колье, распределение сырного колье по формам, прессование продукта и формирование сырных головок"
+        },
+        {
+        "img": "img/svg/animations/ch_losevo/brining.svg",
+        "header": "ПРОСОЛКА СЫРНЫХ ГОЛОВОК",
+        "description": ""
+        },
+        {
+        "img": "img/svg/animations/ch_losevo/cheese_aging.svg",
+        "header": "СЫРНАЯ КАМЕРА СОЗРЕВАНИЕ",
+        "description": "Процесс созревания сырных голов"
+        },
+        {
+        "img": "img/svg/animations/ch_losevo/losevo cheese pack.svg",
+        "header": "ФАСОВКА",
+        "description": "Фасовка и упаковка сыра в оригинальную упаковку «Лосево»"
+        },
+        {
+        "img": "img/svg/animations/ch_losevo/logistics.svg",
+        "header": "ДОСТАВКА НА ПРИЛАВОК",
+        "description": "Логистика готовой продукции в торговые точки «Лосево»."
+        }
+      ]
+    }
+]
